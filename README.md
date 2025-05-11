@@ -1,9 +1,4 @@
-This is the second project under Udacity Nanodegree program
-Data Analysis and Visualization with Microsoft Power BI - Course 3: Creating Visualization with Power BI.
-
----
-
-# Project 2: Power BI Report for Waggle – Lapcat vs. Lapdog Insights
+# Project 2: Power BI Report for Waggle
 
 ## Objective
 
