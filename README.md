@@ -12,24 +12,24 @@ The goal is to deliver a polished, interactive Power BI report that tells the st
 ---
 ## Data sources
 
-- US Census Bureau
-Average income
-location
-population
-industry
+- US Census Bureau </br>
+Average income </br>
+location</br>
+population</br>
+industry</br>
 
-- Business Data
-Product inventory
-Product prices
-Customer rating
-Product return rate
+- Business Data</br>
+Product inventory</br>
+Product prices</br>
+Customer rating</br>
+Product return rate</br>
 
-- Customer Data
-Customer ID
-Names
-Location
-Date of birth
-Purchase history
+- Customer Data</br>
+Customer ID</br>
+Names</br>
+Location</br>
+Date of birth</br>
+Purchase history</br>
 
 ---
 ## Key Tasks
