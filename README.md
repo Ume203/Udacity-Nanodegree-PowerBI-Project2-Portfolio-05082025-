@@ -39,10 +39,10 @@ I have created three pages for the report.
 ![1](Screenshots/1-CEO's-questions.png) </br>
 ( I could have moved all the slicers to the left for more convinience.)
    
-🟣 Customer Insights
+🟣 Pet Insights
 ![2](Screenshots/2-Pet-insights.png)
 
-🔵 Product Insights
+🔵 Pet Owner Insights by State
 ![3](Screenshots/3-Pet-owner-insites-by-State.png)
 
 ---
