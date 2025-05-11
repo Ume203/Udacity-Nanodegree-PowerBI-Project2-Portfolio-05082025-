@@ -10,6 +10,28 @@ Waggle, a startup specializing in smart pet devices, has seen major success with
 The goal is to deliver a polished, interactive Power BI report that tells the story behind the data. The report addresses business questions, adheres to branding and accessibility standards, and demonstrates strong layout design and interactivity.
 
 ---
+## Data sources
+
+- US Census Bureau
+Average income
+location
+population
+industry
+
+- Business Data
+Product inventory
+Product prices
+Customer rating
+Product return rate
+
+- Customer Data
+Customer ID
+Names
+Location
+Date of birth
+Purchase history
+
+---
 ## Key Tasks
 
 ### 1. Business Insights
