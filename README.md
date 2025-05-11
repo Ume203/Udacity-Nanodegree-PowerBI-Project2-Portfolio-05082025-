@@ -36,13 +36,13 @@ The goal is to deliver a polished, interactive Power BI report that tells the st
 I have created three pages for the report. 
 
 🟠 Income & Location insights
-![1](Screenshots/)
+![1](Screenshots/1-CEO's-questions.png)
+( I could have moved all the slicers to the left for more convinience.)
    
-
 🟣 Customer Insights
-![2](Screenshots/)
+![2](Screenshots/2-Pet-insights.png)
 
 🔵 Product Insights
-![3](Screenshots/)
+![3](Screenshots/3-Pet-owner-insites-by-State.png)
 
 ---
