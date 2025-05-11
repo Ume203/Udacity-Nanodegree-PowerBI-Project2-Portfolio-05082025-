@@ -1,4 +1,5 @@
-
+This is the second project under Udacity Nanodegree program
+Data Analysis and Visualization with Microsoft Power BI - Course 3: Creating Visualization with Power BI.
 
 ---
 
@@ -35,6 +36,18 @@ The goal is to deliver a polished, interactive Power BI report that tells the st
 - Use **buttons** as navigation triggers and to activate bookmarks for enhanced user experience.
 
 ---
-## 📷 Dashboard Preview
+### Dashiboard Preview
+
+I have created three pages for the report. 
+
+🟠 Income & Location insights
+![1](Screenshots/)
+   
+
+🟣 Customer Insights
+![2](Screenshots/)
+
+🔵 Product Insights
+![3](Screenshots/)
 
 ---
